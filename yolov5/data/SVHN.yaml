@@ -1,4 +1,4 @@
-path: ../PycharmProjects/input/  # dataset root dir
+path: ../input/  # dataset root dir
 train: images/train  
 val: images/val  
 test:  
